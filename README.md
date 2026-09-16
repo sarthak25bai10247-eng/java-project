@@ -293,8 +293,10 @@ Add terminal screenshots here before submitting. Suggested set:
 Embed them in Markdown like this:
  
 ```markdown
-![Main Menu](screenshots/01-menu.png)
-![Rental Created](screenshots/03-rent.png)
+![Main Menu](<img width="1410" height="888" alt="Screenshot 2026-09-16 152050 - Copy" src="https://github.com/user-attachments/assets/5d7c8a86-1b91-4535-86dd-026e4dcffc75" />
+)
+![Rental Created](<img width="1410" height="888" alt="Screenshot 2026-09-16 152050" src="https://github.com/user-attachments/assets/ba434da0-65dd-47cd-993e-1ad2358f17f0" />
+)
 ```
  
 ---
@@ -308,7 +310,4 @@ Embed them in Markdown like this:
 - JUnit test cases for the cost-calculation logic
 ---
  
-## Author
- 
-*Add your name, roll number, course/semester and college here before submission.*
  
